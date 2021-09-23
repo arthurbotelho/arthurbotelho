@@ -1,5 +1,9 @@
 ## Welcome to my Profile 👋 :flight_departure:
 
+> Sharing knowledge is the most fundamental act of friendship.
+> Because it is a way you can give something without loosing something.
+>  - Richard Stallman
+
 - My Name is Arthur Botelho (he/him);
 - I am 27 years Old;
 - Computer Scientist Student;
