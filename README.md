@@ -1,13 +1,15 @@
-### Welcome to my Profile 👋 :flight_departure:
---
-
-- My Name is Arthur Botelho (he/him)
-- I am 27 years Old
-- Computer Scientist Student
-- Currently working as Fullstack at Find Soluções with SpringBoot, NodeJS, Angular, MySQL e PostgreSQL.
-
+## Welcome to my Profile 👋 :flight_departure:
 ---
-Techs I am confortable with: 
+
+- My Name is Arthur Botelho (he/him);
+- I am 27 years Old;
+- Computer Scientist Student;
+- Currently working as Fullstack at Find Soluções with SpringBoot, NodeJS, Angular, MySQL e PostgreSQL;
+- Love exploring statistics and mathematical subjects;
+- Crazy about Cinema, nerd stuff, meaningful conversations and pointless debates;
+---
+Techs I am confortable with:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
