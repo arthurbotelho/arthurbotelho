@@ -4,8 +4,10 @@
 - I am 27 years Old;
 - Computer Scientist Student;
 - Currently working as Fullstack at Find Soluções with SpringBoot, NodeJS, Angular, MySQL e PostgreSQL;
+- Aiming to work with Backends and Data;
 - Love statistics, mathematics and critical thinking;
 - Crazy about Cinema, nerd stuff, meaningful conversations and pointless debates;
+
 ---
 
 Languages/Frameworks I am confortable with:
@@ -26,6 +28,11 @@ My SO:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+My IDE/Editor:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 Other Techs I use enough to get the job done:
 
