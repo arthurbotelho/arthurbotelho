@@ -7,7 +7,7 @@
 - My Name is Arthur Botelho (he/him);
 - I am 27 years Old;
 - Computer Scientist Student;
-- Currently working as Fullstack at Find Soluções with SpringBoot, NodeJS, Angular, MySQL e PostgreSQL;
+- Currently working as at WIPRO with SpringBoot, NodeJS, Angular, MySQL e PostgreSQL;
 - Aiming to work with Backends and Data;
 - Love statistics, mathematics and critical thinking;
 - Crazy about Cinema, nerd stuff, meaningful conversations and pointless debates;
