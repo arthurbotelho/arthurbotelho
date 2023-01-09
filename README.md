@@ -7,7 +7,7 @@
 - My Name is Arthur Botelho (he/him);
 - I am 28 years Old;
 - Computer Scientist Student;
-- Currently working as at WIPRO;
+- Currently working as at Itau Unibanco;
 - Aiming to work with Backends and Data;
 - Love statistics, mathematics and critical thinking;
 - Crazy about Cinema, bad movies, nerdy stuff, meaningful conversations and pointless debates;
