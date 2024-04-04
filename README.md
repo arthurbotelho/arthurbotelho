@@ -6,7 +6,7 @@
 
 - My Name is Arthur Botelho (he/him);
 - I am 29 years Old;
-- Currently working as Software Engineer at Itau Unibanco;
+- Currently looking for a job as Software Engineer;
 - Aiming to work with Backends and Data;
 - Love statistics, mathematics and critical thinking;
 - Crazy about Cinema, bad movies, nerdy stuff, meaningful conversations and pointless debates;
