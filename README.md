@@ -5,9 +5,8 @@
 >  Richard Stallman
 
 - My Name is Arthur Botelho (he/him);
-- I am 29 years Old;
-- Currently looking for a job as Software Engineer;
-- Aiming to work with Backends and Data;
+- Software Engineer;
+- Working with Java/Kotlin backend development;
 - Love statistics, mathematics and critical thinking;
 - Crazy about Cinema, bad movies, nerdy stuff, meaningful conversations and pointless debates;
 
